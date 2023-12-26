@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/0Jm4qFW8y2bmaHEKu+hxAgrTbK9H+ZjzGnxluERFLDRI9gD0IkJX1l6ISpWmpNe4PT7S+nDUulr0lQAImvhg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\API Usuarios\\API Usuarios.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}
